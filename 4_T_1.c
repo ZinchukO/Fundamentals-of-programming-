@@ -18,8 +18,7 @@ int main(void) {
   printf("експонційна = %e\n", floatn);
   printf("гнучка = %g\n", floatn);
   
-  char letter = printf("Введіть букву: ");
-  scanf("%c", &letter);
+  char letter = "X";
   char strin[] = "Hello World";
 
   printf("символ = %c\n", letter);
